@@ -122,15 +122,20 @@ python -m streamlit run app.py
 
 Add your screenshots to the screenshots/ folder and then use:
 
-![AI Finance Chat](screenshots/ai-chat.png)
+![AI Finance Chat]<img width="1339" height="656" alt="image" src="https://github.com/user-attachments/assets/f6116dfc-f818-4c88-a005-47348b9db2b7" />
 
-![Financial Data Analyzer](screenshots/financial-analyzer.png)
 
-![PDF Finance Assistant](screenshots/pdf-assistant.png)
+![Financial Data Analyzer]<img width="1352" height="654" alt="image" src="https://github.com/user-attachments/assets/5ab2b02a-1fa1-485f-b26d-857370b7ed4a" />
 
-![RAG Document Q&A](screenshots/rag-qa.png)
 
-![AI Finance Agent](screenshots/ai-agent.png)
+![PDF Finance Assistant]<img width="1352" height="645" alt="image" src="https://github.com/user-attachments/assets/b6df3679-f91d-4ffb-b7b9-11fc25107319" />
+
+
+![RAG Document Q&A]<img width="1350" height="628" alt="image" src="https://github.com/user-attachments/assets/436d5308-ba06-4289-aab2-19cd0f81b7f8" />
+
+
+![AI Finance Agent]<img width="1342" height="625" alt="image" src="https://github.com/user-attachments/assets/e3b9df06-4bce-483c-9217-9524890cf3ff" />
+
 
 🔐 Disclaimer
 
